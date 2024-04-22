@@ -1,8 +1,8 @@
-package com.mkade.utils.ql.impl.text
+package com.mlan.utils.query.impl.text
 
-import com.mkade.utils.ql.core.Expression
-import com.mkade.utils.ql.core.ExpressionExecutor
-import com.mkade.utils.ql.core.Parser
+import com.mlan.utils.query.core.Expression
+import com.mlan.utils.query.core.ExpressionExecutor
+import com.mlan.utils.query.core.Parser
 
 class TextExpressionExecutor : ExpressionExecutor {
 

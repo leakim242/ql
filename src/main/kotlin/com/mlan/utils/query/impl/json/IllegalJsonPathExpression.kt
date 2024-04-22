@@ -1,3 +1,3 @@
-package com.mkade.utils.ql.impl.json
+package com.mlan.utils.query.impl.json
 
 class IllegalJsonPathExpression(expression: String) : Throwable(expression)

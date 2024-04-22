@@ -1,6 +1,6 @@
-package com.mkade.utils.ql.impl.text
+package com.mlan.utils.query.impl.text
 
-import com.mkade.utils.ql.core.Evaluator
+import com.mlan.utils.query.core.Evaluator
 
 class TextEvaluator(private val source: String) : Evaluator {
     override fun evaluate(e: String): Boolean {

@@ -1,9 +1,9 @@
-package com.mkade.utils.ql.impl.json
+package com.mlan.utils.query.impl.json
 
 import com.fasterxml.jackson.databind.ObjectMapper
-import com.mkade.utils.ql.core.Expression
-import com.mkade.utils.ql.core.ExpressionExecutor
-import com.mkade.utils.ql.core.Parser
+import com.mlan.utils.query.core.Expression
+import com.mlan.utils.query.core.ExpressionExecutor
+import com.mlan.utils.query.core.Parser
 import java.lang.IllegalArgumentException
 
 class JsonPathExpressionExecutor : ExpressionExecutor {

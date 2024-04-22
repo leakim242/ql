@@ -1,4 +1,4 @@
-package com.mkade.utils.ql.core
+package com.mlan.utils.query.core
 
 class Single(private val e: String) : Expression {
     override fun evaluate(evaluator: Evaluator): Boolean {

@@ -1,4 +1,4 @@
-package com.mkade.utils.ql.core
+package com.mlan.utils.query.core
 
 interface ExpressionExecutor {
     fun evaluate(source: Any, expression: String): Boolean

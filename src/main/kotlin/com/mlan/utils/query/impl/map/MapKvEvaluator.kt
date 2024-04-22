@@ -1,7 +1,7 @@
-package com.mkade.utils.ql.impl.map
+package com.mlan.utils.query.impl.map
 
-import com.mkade.utils.ql.compare.ValueCompare
-import com.mkade.utils.ql.core.Evaluator
+import com.mlan.utils.query.compare.ValueCompare
+import com.mlan.utils.query.core.Evaluator
 import java.util.Locale
 
 class MapKvEvaluator(private val map: Map<String, Any?>?) : Evaluator {

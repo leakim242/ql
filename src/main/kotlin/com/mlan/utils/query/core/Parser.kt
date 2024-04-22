@@ -1,4 +1,4 @@
-package com.mkade.utils.ql.core
+package com.mlan.utils.query.core
 
 import java.lang.Exception
 import java.lang.IllegalArgumentException

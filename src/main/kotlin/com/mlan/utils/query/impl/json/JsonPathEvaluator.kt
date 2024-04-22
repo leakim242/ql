@@ -1,8 +1,8 @@
-package com.mkade.utils.ql.impl.json
+package com.mlan.utils.query.impl.json
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.databind.node.MissingNode
-import com.mkade.utils.ql.core.Evaluator
+import com.mlan.utils.query.core.Evaluator
 
 class JsonPathEvaluator(source: String) : Evaluator {
     private val mapper = ObjectMapper()

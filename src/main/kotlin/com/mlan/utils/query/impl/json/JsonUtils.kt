@@ -1,4 +1,4 @@
-package com.mkade.utils.ql.impl.json
+package com.mlan.utils.query.impl.json
 
 import com.fasterxml.jackson.databind.JsonNode
 import com.fasterxml.jackson.databind.node.ArrayNode

@@ -1,4 +1,4 @@
-package com.mkade.utils.ql.core
+package com.mlan.utils.query.core
 
 class And(private val e: List<Expression>) : Expression {
 

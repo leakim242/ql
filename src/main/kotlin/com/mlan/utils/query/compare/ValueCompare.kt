@@ -1,4 +1,4 @@
-package com.mkade.utils.ql.compare
+package com.mlan.utils.query.compare
 
 object ValueCompare {
 
